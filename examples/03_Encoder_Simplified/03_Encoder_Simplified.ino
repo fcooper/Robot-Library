@@ -25,7 +25,7 @@
 #include "SimpleRSLK.h"
 
 /* Diameter of Romi wheels in inches */
-float wheelDiameter = 2.7559055;
+float wheelDiameter = 2.7559055; // 2.7559055" = 7.0 cm (International System of Units)
 
 /* Number of encoder (rising) pulses every time the wheel turns completely */
 int cntPerRevolution = 360;
